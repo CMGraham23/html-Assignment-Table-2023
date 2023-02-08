@@ -1,0 +1,68 @@
+
+.header {
+    padding: 100px;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+       
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      }  
+    
+  
+  table{
+      width: 100%;
+      border: 1px solid rgb(53, 45, 45);
+      border-collapse: collapse;
+      margin-bottom: 200px;;
+  
+  }
+  
+  th,td{
+      border: 1px solid rgb(53, 45, 45);
+      padding: 10px;
+      text-align: center;
+  }
+  
+  tr:nth-child(odd){
+      background-color: rgb(240, 238, 238);
+  }
+  
+  #row1{
+      background-color:rgb(158, 158, 158);
+      font-size: 16px;
+      font-weight: bold;
+      border: none;
+  }
+  
+  #lunch{    
+      font-size: 20px;
+      font-style: italic;
+      font-weight: bold;
+      border: none;
+      
+      
+  }
+  
+  h1{
+      text-align: center;
+      font-size: 15px;
+      font-weight: bold;
+      font-style: italic;
+      margin-top: 80px;   
+  }
+  
+  button{
+      background-color: rgb(158, 158, 158);
+      border-radius: 20px;
+      padding: 15px;
+      font-size: 15px;
+      font-weight: bold;
+      font-style: italic;
+      margin-top: 30px;
+      margin-left: 50px;
+      margin-bottom: 30px;
+  }
+
+  
